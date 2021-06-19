@@ -25,7 +25,7 @@ import java .util.Scanner;
    System.out.println("PRODUCT NAME  : "+PNAME);  
    System.out.println("PRODUCT PRICE : "+PRICE); 
    System.out.println("\n");
-
+q
 
  }
 
