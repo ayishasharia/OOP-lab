@@ -91,8 +91,6 @@ Area of triangle:6.0
 
 
 
-
-
-
-  
+ 
 */
+//Verified
