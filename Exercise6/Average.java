@@ -63,3 +63,4 @@ Enter new number!
 Average of N positive integers : 3
 
 */
+Verified
