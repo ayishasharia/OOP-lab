@@ -1,3 +1,4 @@
+
 /*Create a class ‘Employee’ with data members Empid,
 Name, Salary, Address and constructors to initialize the
 data members. Create another class ‘Teacher’ that inherit

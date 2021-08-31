@@ -1,4 +1,4 @@
-/*4. Create a Graphics package that has classes and interfaces for figures
+5/*4. Create a Graphics package that has classes and interfaces for figures
 Rectangle, Triangle, Square and Circle. Test the package by finding the
 area of these figures.*/
 
