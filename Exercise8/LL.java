@@ -62,3 +62,4 @@ after delete all elements of linkedlist: []
 
 
 */
+Verified
