@@ -68,3 +68,4 @@ third
 elements of Deque after remove all element
 --------------------------------------------
 */
+Verified
