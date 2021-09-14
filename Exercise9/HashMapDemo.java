@@ -81,3 +81,4 @@ John Doe: 4434.34
 Tom Smith: 123.22
 Jane Baker: 1378.0
 */
+Verified
