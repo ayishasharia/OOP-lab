@@ -77,7 +77,7 @@ class ShapesOpt extends Frame implements ItemListener {
 		
 	}
 	public static void main(String[] args) {
-		Shapes appwin = new Shapes();
+		ShapesOpt appwin = new ShapesOpt();
 
 		appwin.setSize(new Dimension(500, 500));
 		appwin.setTitle("SHAPES");
