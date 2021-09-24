@@ -10,8 +10,7 @@ public class MyClient {
 
 		Socket s=new Socket("localhost",6666);
 		DataOutputStream dout=new DataOutputStream(s.getOutputStream());
-		dout.writeUTF("Hello there its Ayisha Sharia Samad ");
-		dout.writeUTF("over");*/
+		dout.writeUTF("Hello there its Ayisha Sharia Samad");
 		dout.flush();
 		dout.close();
 		s.close();
