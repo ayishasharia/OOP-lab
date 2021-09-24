@@ -84,3 +84,4 @@ class ShapesOpt extends Frame implements ItemListener {
 		appwin.setVisible(true);
 	}
 }
+Verified
